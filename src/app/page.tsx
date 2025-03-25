@@ -2,7 +2,7 @@ import TodoApp from "../components/ToDoList/page";
 
 export default function Home() {
   return (
-    <main>
+    <main className="p-5">
       <TodoApp />
     </main>
   );
